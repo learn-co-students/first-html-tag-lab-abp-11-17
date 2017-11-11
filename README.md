@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Code an `h1` tag in `index.html`
-2. Set the inner text of the `h1` to `Hello, World!`
+2. Set the inner text of the `h1` to `Hello, World!`learn
 
 ## Instructions
 
@@ -26,3 +26,6 @@ Once you have the HTML document open in your browser, you can make changes to it
 ## Resources
 
 * [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
+learn
+//Learn
+Learn
